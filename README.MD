@@ -1,5 +1,6 @@
 # Velox Example Plugin (Swear Bonk)
 ![Java CI with Gradle](https://github.com/mikex86/VeloxExamplePlugin/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
 ![Bonk](https://github.com/mikex86/VeloxExamplePlugin/blob/master/images/bonk.jpg)
 
 
